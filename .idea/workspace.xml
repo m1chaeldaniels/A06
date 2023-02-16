@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d25aa0a-f65d-47e6-b47a-9e9b14fd4509" name="Changes" comment="" />
+    <list default="true" id="3d25aa0a-f65d-47e6-b47a-9e9b14fd4509" name="Changes" comment="A06 First Commit with base information">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My-First-Web-Page.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-first-web-page.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,10 +20,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LpJEJ99RMiXsE7J6AhOUTevr7l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,11 +55,23 @@
       <option name="presentableId" value="Default" />
       <updated>1676561977902</updated>
       <workItem from="1676561978974" duration="5000" />
-      <workItem from="1676562031358" duration="317000" />
+      <workItem from="1676562031358" duration="2075000" />
     </task>
+    <task id="LOCAL-00001" summary="A06 First Commit with base information">
+      <created>1676562648460</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676562648460</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="A06 First Commit with base information" />
+    <option name="LAST_COMMIT_MESSAGE" value="A06 First Commit with base information" />
   </component>
 </project>
